@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "framer-motion": "^11.1.9",
     "next": "canary",
     "react": "19.0.0-beta-4508873393-20240430",
     "react-dom": "19.0.0-beta-4508873393-20240430"
